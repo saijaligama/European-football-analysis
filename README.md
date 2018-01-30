@@ -1,5 +1,5 @@
 # European-football-analysis
-Basic analysis of European football data  using pandas scikit and matplotlib.
+Basic analysis of European football data  using pandas scikit and matplotlib. \n
 Linear regression and DecisionTreeRegressor were the two algorithms used.
 The purpose of this project was to find the Average player rating with the given features like skills , preferred foot, power accuracy
 etc.
